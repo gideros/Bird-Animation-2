@@ -1,0 +1,14 @@
+<project>
+ <properties autorotation="0" encrypt="0" fps="60" scaleMode="3" mouseToTouch="1" iosDevice="0" packageName="com.yourdomain.yourapp" logicalHeight="480" logicalWidth="320" mouseTouchOrder="0" retinaDisplay="0" touchToMouse="1" assetsOnly="0" orientation="1" architecture="0">
+  <imageScales/>
+ </properties>
+ <file source="gfx/bird_black_01.png"/>
+ <file source="gfx/bird_black_02.png"/>
+ <file source="gfx/bird_black_03.png"/>
+ <file source="gfx/bird_white_01.png"/>
+ <file source="gfx/bird_white_02.png"/>
+ <file source="gfx/bird_white_03.png"/>
+ <file source="gfx/sky_world.png"/>
+ <file source="bird.lua"/>
+ <file source="main.lua"/>
+</project>
